@@ -4,7 +4,8 @@ public void prodtest() {
   
   expect(Product.characters254.andReturn(newcharacters254);
 
-  if (assertEquals(newcharacters254, [{"cc"}, {"abcde"}, {"abcd"}]) = false){
+  if (assertEquals(newcharacters254, [{"cc"}, {"abcde"}, {"abcd"}]) ==
+ false){
       throw new CharException("False character input");
   }
 }
