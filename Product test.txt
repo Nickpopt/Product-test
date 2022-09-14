@@ -1,0 +1,10 @@
+@Test
+public void prodtest() {
+  String characters254 = cc-abcde-abcd;
+  
+  expect(Product.characters254.andReturn(newcharacters254);
+
+  if (assertEquals(newcharacters254, [{"cc"}, {"abcde"}, {"abcd"}]) = false){
+      throw new CharException("False character input");
+  }
+}
